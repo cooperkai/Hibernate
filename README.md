@@ -1,1 +1,1 @@
-![image](../jar1.png)
+![image](jar1.png)
