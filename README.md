@@ -6,9 +6,9 @@
 
 ## Eclipse封裝Jar檔
 封裝前請先更改MainFrame.java裡面的版號
-
+--
 1. 在專案上，右鍵選擇Export
-![img](https://raw.githubusercontent.com/cooperkai/Hibernate/master/jar1.png)
+<img src="https://raw.githubusercontent.com/cooperkai/Hibernate/master/jar1.png" width="500" height="450">
 2. 選擇Java下面的Runnable JAR file
 <img src="https://raw.githubusercontent.com/cooperkai/Hibernate/master/jar2.png" width="500" height="450">
 3. 選擇輸出.jar檔後的位置
@@ -16,7 +16,9 @@
 
 ## Jar檔轉成Exe檔
 有許多軟體工具可以轉換成.exe檔的，在這邊我們使用Exe4j這個軟體[下載](https://www.ej-technologies.com/download/exe4j/files)
+--
 解壓縮安裝完軟體後，開始操作轉換
+--
 1. 執行軟體，在網路上尋找序號，輸入完序號後(沒輸入會在執行.exe時跳出惱人視窗)
 <img src="https://raw.githubusercontent.com/cooperkai/Hibernate/master/exe1.png" width="500" height="450">
 2. 選擇"JAR in EXE"mode
