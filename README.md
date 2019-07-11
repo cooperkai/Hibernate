@@ -1,1 +1,1 @@
-![img](.Hibernate/master/jar1.png)
+![img](../jar1.png)
