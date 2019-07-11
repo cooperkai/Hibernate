@@ -8,7 +8,7 @@
 封裝前請先更改MainFrame.java裡面的版號
 
 1. 在專案上，右鍵選擇Export
-![](https://raw.githubusercontent.com/cooperkai/Hibernate/master/jar1.png)
+![img](https://raw.githubusercontent.com/cooperkai/Hibernate/master/jar1.png)
 2. 選擇Java下面的Runnable JAR file
 <img src="https://raw.githubusercontent.com/cooperkai/Hibernate/master/jar2.png" width="500" height="450">
 3. 選擇輸出.jar檔後的位置
