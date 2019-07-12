@@ -8,30 +8,30 @@
 封裝前請先更改MainFrame.java裡面的版號
 
 1. 在專案上，右鍵選擇Export
-![](Hibernate/a/c/jar1.png)
+![](a/c/jar1.png)
 2. 選擇Java下面的Runnable JAR file
-![](Hibernate/a/c/jar2.png)
+![](a/c/jar2.png)
 3. 選擇輸出.jar檔後的位置
-![](Hibernate/a/c/jar3.png)
+![](a/c/jar3.png)
 
 ## Jar檔轉成Exe檔
 有許多軟體工具可以轉換成.exe檔的，在這邊我們使用Exe4j這個軟體[下載](https://www.ej-technologies.com/download/exe4j/files)
 解壓縮安裝完軟體後，開始操作轉換
 1. 執行軟體，在網路上尋找序號，輸入完序號後(沒輸入會在執行.exe時跳出惱人視窗)
-![](Hibernate/a/b/exe1.png)
+![](a/b/exe1.png)
 2. 選擇"JAR in EXE"mode
-![](Hibernate/a/b/exe2.png)
+![](a/b/exe2.png)
 3. 設定名字以及輸出.exe檔後的位置
-![](Hibernate/a/b/exe3.png)
+![](a/b/exe3.png)
 4. 選擇輸出模式、設定輸出.exe檔名、設定icon(請用專案裡面的xiaomai.png，轉檔.ico)
-![](Hibernate/a/b/exe4.png)
+![](a/b/exe4.png)
 5. 添加封裝的.jar
-![](Hibernate/a/b/exe5.png)
+![](a/b/exe5.png)
 6. 選擇執行main的入口(MainFrame)
-![](Hibernate/a/b/exe6.png)
+![](a/b/exe6.png)
 7. 輸入jdk版本
-![](Hibernate/a/b/exe7.png)
+![](a/b/exe7.png)
 8. 接下來都下一步
-![](Hibernate/a/b/exe8.png)
+![](a/b/exe8.png)
 9. 完成
-![](Hibernate/a/b/exe9.png)
+![](a/b/exe9.png)
