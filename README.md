@@ -8,7 +8,7 @@
 封裝前請先更改MainFrame.java裡面的版號
 1. 在專案上，右鍵選擇Export
 
-![](a/c/jar1.png)
+![測試](a/c/jar1.png)
 
 2. 選擇Java下面的Runnable JAR file
 
