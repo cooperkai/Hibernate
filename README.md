@@ -6,6 +6,7 @@
 
 ## Eclipse封裝Jar檔
 封裝前請先更改MainFrame.java裡面的版號
+
 1. 在專案上，右鍵選擇Export
 
 ![測試](a/c/jar1.png)
