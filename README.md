@@ -9,51 +9,36 @@
 
 1. 在專案上，右鍵選擇Export
 
-![測試](a/c/jar1.png)
+![](src/main/resources/image/jar1.png)
 
 2. 選擇Java下面的Runnable JAR file
 
-![](a/c/jar2.png)
+![](src/main/resources/image/jar2.png)
 
 3. 選擇輸出.jar檔後的位置
 
-![](a/c/jar3.png)
+![](src/main/resources/image/jar3.png)
 
 ## Jar檔轉成Exe檔
-有許多軟體工具可以轉換成.exe檔的，在這邊我們使用Exe4j這個軟體[下載](https://www.ej-technologies.com/download/exe4j/files)
+我們使用jsmooth這個軟體[下載](http://jsmooth.sourceforge.net/)
 解壓縮安裝完軟體後，開始操作轉換
-1. 執行軟體，在網路上尋找序號，輸入完序號後(沒輸入會在執行.exe時跳出惱人視窗)
 
-![](a/b/exe1.png)
+1. 執行軟體， 先選Skeleton，再從下拉選單Skeleton Selection，選擇Windowed Wrapper，Skeleton Properties可選擇在執行時是否要顯示console
 
-2. 選擇"JAR in EXE"mode
+![](src/main/resources/image/exe1.png)
 
-![](a/b/exe2.png)
+2. 選Executable，Executable Binary設定exe的檔名(編譯完後的名字)、Executable Icon設定icon圖示(請用專案裡面的xiaomai.png)、Current Directory設定輸出.exe檔後的位置
 
-3. 設定名字以及輸出.exe檔後的位置
+![](src/main/resources/image/exe2.png)
 
-![](a/b/exe3.png)
+3. 選Application(這邊請照著順序操作)，1選擇剛剛編譯好的jar檔，2選擇主要執行的.class檔，3也是選擇剛剛編譯好的jar檔
 
-4. 選擇輸出模式、設定輸出.exe檔名、設定icon(請用專案裡面的xiaomai.png，轉檔.ico)
+![](src/main/resources/image/exe3.png)
 
-![](a/b/exe4.png)
+4.  一樣在Application這(這邊請照著順序操作)，1選擇存檔日後方便修改，2編譯成.exe檔
 
-5. 添加封裝的.jar
+![](src/main/resources/image/exe4.png)
 
-![](a/b/exe5.png)
+5. 完成
 
-6. 選擇執行main的入口(MainFrame)
-
-![](a/b/exe6.png)
-
-7. 輸入jdk版本
-
-![](a/b/exe7.png)
-
-8. 接下來都下一步
-
-![](a/b/exe8.png)
-
-9. 完成
-
-![](a/b/exe9.png)
+![](src/main/resources/image/exe5.png)
