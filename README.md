@@ -25,20 +25,20 @@
 
 1. 執行軟體， 先選Skeleton，再從下拉選單Skeleton Selection，選擇Windowed Wrapper，Skeleton Properties可選擇在執行時是否要顯示console
 
-![](a/c/exe1.png)
+![](a/b/exe1.png)
 
 2. 選Executable，Executable Binary設定exe的檔名(編譯完後的名字)、Executable Icon設定icon圖示(請用專案裡面的xiaomai.png)、Current Directory設定輸出.exe檔後的位置
 
-![](a/c/exe2.png)
+![](a/b/exe2.png)
 
 3. 選Application(這邊請照著順序操作)，1選擇剛剛編譯好的jar檔，2選擇主要執行的.class檔，3也是選擇剛剛編譯好的jar檔
 
-![](a/c/exe3.png)
+![](a/b/exe3.png)
 
 4.  一樣在Application這(這邊請照著順序操作)，1選擇存檔日後方便修改，2編譯成.exe檔
 
-![](a/c/exe4.png)
+![](a/b/exe4.png)
 
 5. 完成
 
-![](a/c/exe5.png)
+![](a/b/exe5.png)
